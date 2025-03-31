@@ -1,7 +1,7 @@
-PUT http://localhost:3000/userupdate/8
+PUT http://localhost:3000/userupdate/1
 Content-Type: application/json
 
 {
-        "username":"dxkfewz",
+        "username":"sirir",
         "password":"121231"
 }
